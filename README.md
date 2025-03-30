@@ -1,3 +1,13 @@
+# PRESONAL-PORTFOLIO
+COMPANY: CODTECH IT SOLUTIONS
+NAME: AMIT KUMAR
+INTERN ID: CT04WWL
+DOMAIN: FRONTEND WEB DEVELOPMENT
+DURATION: 4 WEEKS 
+MENTOR: NEELA SANTOSH
+***********************************************************************************************************************************************
+
+
 # Amit Kumar Portfolio
 
 A modern, responsive portfolio website crafted using HTML, CSS, and JavaScript. Showcasing my projects, skills, and contact information in a clean, user-friendly interface.
