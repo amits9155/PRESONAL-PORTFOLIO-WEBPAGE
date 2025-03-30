@@ -3,7 +3,8 @@
 A modern, responsive portfolio website crafted using HTML, CSS, and JavaScript. Showcasing my projects, skills, and contact information in a clean, user-friendly interface.
 
 ### Live Link: [View Portfolio](https://github.com/amits9155/Portfolio)
-
+# screenshort
+![portfolio homepage](https://github.com/amits9155/PRESONAL-PORTFOLIO-WEBPAGE/blob/0ef1b7654e5b431fdaf3f7670a2036194376ab6a/assets/img/Screenshot%202025-03-30%20125641.png)
 ## Features
 
 ✅ **Responsive Design**: Fully responsive layout that works across all devices
